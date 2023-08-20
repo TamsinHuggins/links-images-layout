@@ -1,0 +1,6 @@
+.images {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  object-position: 30% 100%;
+}
